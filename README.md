@@ -6,7 +6,9 @@ Program to read and detect Australian coins on an image using Roboflow.
 # 1) Description of Project
 This project aims to use Roboflow to detect coins in your own images!!
 
-Use Roboflow to insert the entire coins folder above and run your code.
+Use Roboflow to **insert the entire coins folder above and run your code.**
+
+(I used the premium Free Trial which requires no credit card details. You may have to use the premium feature too).
 
 ![RoboFlow_Upload](https://github.com/user-attachments/assets/6b6c245c-d9d2-4b78-adb7-9ba23eb5f894)
 
