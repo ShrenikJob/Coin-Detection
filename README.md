@@ -13,6 +13,7 @@ Use Roboflow to insert the entire coins folder above and run your code.
 # 2) Next Steps
 
 After uploading, follow the process shown in RoboFlow with training and running the model.
+
 **Feel free to experiment with the ratios of Train : Validate : Test sets !**
 
 # We are done! 
