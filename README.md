@@ -18,6 +18,11 @@ After uploading, follow the process shown in RoboFlow with training and running 
 
 **Feel free to experiment with the ratios of Train : Validate : Test sets !**
 
+Some results from my side:
+
+![results](https://github.com/user-attachments/assets/89589a16-afce-4552-be00-ae10037ac56c)
+
+
 # We are done! 
 
 
