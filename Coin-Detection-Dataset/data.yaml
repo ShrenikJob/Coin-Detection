@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['1-dollar', '10-cents', '2-dollar', '20-cents', '5-cents', '50-cents']
+
+roboflow:
+  workspace: shrenikjobanputra
+  project: count-coins-4zbss
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/shrenikjobanputra/count-coins-4zbss/1
