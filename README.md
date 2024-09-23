@@ -16,14 +16,25 @@ Use Roboflow to **insert the entire coins folder above and run your code.**
 
 After uploading, follow the process shown in RoboFlow with training and running the model.
 
-**Feel free to experiment with the ratios of Train : Validate : Test sets !**
+**Feel free to experiment with the ratios of Train : Validate : Test sets**
 
-Some results from my side:
+While preparing the images, you can experiment with Preprocessing and Augmentation.
+
+Next, you can choose to "Custom Train and Upload" or "Train with Roboflow". I chose to to go with "Train with Roboflow" in this instance.
+
+(Note, this will take some time to train).
+
+Here are the results from my side:
 
 ![results](https://github.com/user-attachments/assets/89589a16-afce-4552-be00-ae10037ac56c)
 
+# 3) Try the Model
 
-# We are done! 
+Within the "Versions" tab, you can choose to try the model by uploading a photo of Australian Coins, or you can scan the QR code using your mobile phoneto try the model live with video.
+
+This truly is fascnitating and I encourage you all to experiment with this project.
+
+# Thank you
 
 
 
